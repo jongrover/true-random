@@ -6,13 +6,13 @@ This is a true random number generator to be used with Arduino. While working wi
 
 ## Resources
 
-Circuit: http://www.openrandom.org/resources/avalanche/circuit
-Parts List:http://www.openrandom.org/resources/avalanche/diy.md
-How it Works: http://www.openrandom.org/resources/avalanche/how_it_works.md
-Arduino code by: James Grover & Jon Grover <hello@jonathangrover.com>
-Used in artwork: https://jonathangrover.com
-Microcontroller: Arduino.cc
-Parts from: Mouser.com
+- Circuit: http://www.openrandom.org/resources/avalanche/circuit
+- Parts List:http://www.openrandom.org/resources/avalanche/diy.md
+- How it Works: http://www.openrandom.org/resources/avalanche/how_it_works.md
+- Code by: James Grover & Jon Grover <hello@jonathangrover.com>
+- Used in artwork: https://jonathangrover.com
+- Microcontroller: https://arduino.cc
+- Parts from: https://mouser.com
 
 ## License
 
