@@ -8,6 +8,7 @@ I would use touch sensors to trigger a bank of audio samples, but when the inter
 ## Resources
 
 - Circuit: http://www.openrandom.org/resources/avalanche/circuit
+- Transistor Data Sheet: https://pdf1.alldatasheet.com/datasheet-pdf/view/11474/ONSEMI/2N4401.html
 - Parts List:http://www.openrandom.org/resources/avalanche/diy.md
 - How it Works: http://www.openrandom.org/resources/avalanche/how_it_works.md
 - Code by: James Grover & Jon Grover <hello@jonathangrover.com>
