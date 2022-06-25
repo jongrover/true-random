@@ -1,5 +1,7 @@
 # Z1FFER v≤0.2.x Avalanche Noise Based True Random Number Generator
 
+![True Random Number Generator Circuit](true-random-circuit-arduino.jpg)
+
 ## Explanation / Rant About Crappy Pseudo Random Algos
 
 This is a true random number generator to be used with Arduino. While working with Arduino in art projects I would often want to generate a random number and I noticed that the built in 'random()' function is actually pseudo random and often kept repeating the same 12 or so numbers over and over again. providing a seed number for variety would simply shift to a different 12 or so numbers and was definitely not enough to make a unique experience for the audience of my work. Often 
