@@ -1,4 +1,6 @@
-# Z1FFER v≤0.2.x Avalanche Noise Based True Random Number Generator
+# Z1FFER's Avalanche Noise Based True Random Number Generator
+
+Version: ≤0.2.x
 
 ![True Random Number Generator Circuit](true-random-circuit-arduino.jpg)
 
