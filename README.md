@@ -1,4 +1,4 @@
-# Z1FFER's Avalanche Noise True Random Number Generator
+# Z1FFER's Avalanche Noise True Random Number Generator For Arduino
 
 Version: ≤0.2.x
 
