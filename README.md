@@ -1,4 +1,4 @@
-# Z1FFER's Avalanche Noise True Random Number Generator For Arduino
+# Avalanche Noise True Random Number Generator For Arduino
 
 Version: ≤0.2.x
 
@@ -14,9 +14,17 @@ I would use touch sensors to trigger a bank of audio samples, but when the inter
 - Circuit: http://www.openrandom.org/resources/avalanche/circuit
 - Transistor Data Sheet: https://pdf1.alldatasheet.com/datasheet-pdf/view/11474/ONSEMI/2N4401.html
 - Parts List:http://www.openrandom.org/resources/avalanche/diy.md
+
+## Research
 - How it Works: http://www.openrandom.org/resources/avalanche/how_it_works.md
+- More about Avalanche Noise: https://sites.google.com/site/astudyofentropy/project-definition/avalanche-noise
+- Creating Noise in Semiconductor Devices: https://www.eng.auburn.edu/~wilambm/pap/2011/K10147_C011.pdf
+
+## Credits
+
+- Circuit Design by: VHS Design https://www.tindie.com/stores/robseward/
 - Code by: James Grover & Jon Grover <hello@jonathangrover.com>
-- Used in artwork: https://jonathangrover.com
+- Used in artwork: https://jonathangrover.com, https://circuladium.com
 - Microcontroller: https://arduino.cc
 - Parts from: https://mouser.com
 
