@@ -7,7 +7,7 @@
  * Used in artwork: https://jonathangrover.com
 */
 
-#define GEN_RND_PIN 2 // Digital pin 2
+#define GEN_RND_PIN 2 // Digital pin 2 connected to the output of the noise avalanche circuit.
 #define NUM_BITS 10  // specifies number of bits to combine. 
 // Ex: If NUM_BITS is 10 then lookup the 10th number in the chart below 
 // to see the max number of the range in this case it is 1024 a range of (0 to 1024)
